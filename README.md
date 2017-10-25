@@ -9,7 +9,7 @@ buid and use a noraui robot by maven plugin
 Caution: noraui-maven-plugin is a beta feature !!!
 
 # Demonstration
-[![Demonstration](/spec/youtube.png)](https://www.youtube.com/watch?v=jGXxyKAUJv0)
+[![Demonstration](/spec/youtube.png)](https://www.youtube.com/watch?v=YtDGDHhXFGA)
 
 # License
 
